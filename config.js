@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Tulumbacılar / Fire Mans',
+    title: 'Tulumbacılar / Fire Brigades',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
@@ -56,7 +56,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Wv5nct7Z/MEF-AAP-027-BAP-2025-08-10-13-06-58.png',
+            image: 'https://i.ibb.co/pmJ5Wgc/MEF-AAP-027-BAP-2025-08-23-12-22-04.png',
             description: '',
             location: {
                 center: [28.965, 41.011],
